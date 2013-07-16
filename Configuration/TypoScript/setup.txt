@@ -1,0 +1,39 @@
+plugin.tx_t3registrationeb {
+	view {
+		templateRootPath = {$plugin.tx_t3registrationeb.view.templateRootPath}
+		partialRootPath = {$plugin.tx_t3registrationeb.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_t3registrationeb.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_t3registrationeb.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+}
+
+plugin.tx_t3registrationeb._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	.tx-t3registrationeb table {
+		border-collapse:separate;
+		border-spacing:10px;
+	}
+
+	.tx-t3registrationeb table th {
+		font-weight:bold;
+	}
+
+	.tx-t3registrationeb table td {
+		vertical-align:top;
+	}
+)

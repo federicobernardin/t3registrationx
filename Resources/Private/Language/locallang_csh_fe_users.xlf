@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-04-12T09:25:41Z" product-name="t3registrationeb">
+		<header/>
+		<body>
+
+			<trans-unit id="privacy.description">
+				<source>Privacy flag</source>
+			</trans-unit>
+			<trans-unit id="authentication_code.description">
+				<source>User authentication code</source>
+			</trans-unit>
+			<trans-unit id="moderator_approval.description">
+				<source>moderatorApproval</source>
+			</trans-unit>
+			<trans-unit id="moderator_approvalate_d.description">
+				<source>Date and time (timestamp) of moderator approval</source>
+			</trans-unit>
+			<trans-unit id="user_approval.description">
+				<source>user approval date and time</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

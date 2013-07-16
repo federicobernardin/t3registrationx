@@ -1,0 +1,6 @@
+config.tx_extbase.persistence.classes.TYPO3\CMS\Extbase\Domain\Model\FrontendUser.extends.classes.t3registrationeb = TYPO3\T3registrationeb\Domain\Model\FrontendUser
+
+plugin.tx_t3registrationeb.persistence.storagePid = 5
+
+config.tx_extbase.persistence.classes.TYPO3\CMS\Extbase\Domain\Model\FrontendUser.mapping.recordType=
+plugin.tx_t3registrationeb.persistence.classes.TYPO3\CMS\Extbase\Domain\Model\FrontendUser.mapping.recordType=

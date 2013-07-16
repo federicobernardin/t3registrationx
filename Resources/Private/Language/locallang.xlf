@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-04-12T09:25:41Z" product-name="t3registrationeb">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser">
+				<source>FrontendUser</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.privacy">
+				<source>Privacy flag</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.authentication_code">
+				<source>User authentication code</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.moderator_approval">
+				<source>moderatorApproval</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.moderator_approvalate_d">
+				<source>Date and time (timestamp) of moderator approval</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.user_approval">
+				<source>user approval date and time</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>

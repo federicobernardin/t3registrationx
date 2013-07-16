@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-04-12T09:25:41Z" product-name="t3registrationeb">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser">
+				<source>Frontend User</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.privacy">
+				<source>Privacy</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.authentication_code">
+				<source>Authentication Code</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.moderator_approval">
+				<source>Moderator Approval</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.moderator_approvalate_d">
+				<source>Moderator Approvalate D</source>
+			</trans-unit>
+			<trans-unit id="tx_t3registrationeb_domain_model_frontenduser.user_approval">
+				<source>User Approval</source>
+			</trans-unit>
+			
+			<trans-unit id="fe_users.tx_extbase_type.Tx_T3registrationeb_FrontendUser">
+				<source>TYPO3 Registration FrontendUser</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>
